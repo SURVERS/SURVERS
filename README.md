@@ -1,6 +1,6 @@
 <div style="text-align: center;">
   <img src="https://iili.io/fekJeEb.md.png" alt="feeZCsp.md.png" 
-       style="width: 25%; max-width: 25%; display: block; margin: 0 auto;">
+       style="width: 125%; max-width: 125%; display: block; margin: 0 auto;">
 </div>
 <!-- Терминальная анимация печати кода -->
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=2000&pause=200&color=FFFFFF&multiline=true&width=935&lines=S+-+%D0%A1%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0.+%D0%9C%D0%B5%D1%82%D0%BE%D0%B4+%D0%B2+%D0%BF%D0%BE%D0%B4%D1%85%D0%BE%D0%B4%D0%B5." alt="Typing SVG" />
