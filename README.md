@@ -24,7 +24,7 @@
 
 ### 📬 Contact Me
 
-<p align="left">
+<p align="center">
 <a href="https://t.me/survers_team" target="blank"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="survers_team" /></a>
 <a href="mailto:surversemail@gmail.com" target="blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="surversemail@gmail.com" /></a>
 </p>
