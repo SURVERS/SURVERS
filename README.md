@@ -1,7 +1,5 @@
-<div style="text-align: center;">
-  <img src="https://iili.io/fekJeEb.md.png" alt="feeZCsp.md.png" 
-       style="width: 125%; max-width: 125%; display: block; margin: 0 auto;">
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=30&pause=1000&color=0CF738&width=435&height=65&lines=VLADISLAV;" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=30&pause=1000&color=0CF738&width=435&height=65&lines=Backend+Delevoper" alt="Typing SVG" />
 <!-- Терминальная анимация печати кода -->
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=2000&pause=200&color=FFFFFF&multiline=true&width=935&lines=S+-+%D0%A1%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0.+%D0%9C%D0%B5%D1%82%D0%BE%D0%B4+%D0%B2+%D0%BF%D0%BE%D0%B4%D1%85%D0%BE%D0%B4%D0%B5." alt="Typing SVG" />
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=2000&pause=200&color=FFFFFF&multiline=true&width=935&lines=U+-+%D0%A3%D0%B3%D0%BB%D1%83%D0%B1%D0%BB%D1%91%D0%BD%D0%BD%D1%8B%D0%B9+%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7.+%D0%9F%D0%BE%D0%B8%D1%81%D0%BA+%D1%81%D1%83%D1%82%D0%B8." alt="Typing SVG" />
