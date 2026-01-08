@@ -1,7 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=30&duration=2000&pause=25000&color=0CF738&width=635&height=65&lines=VLADISLAV;" alt="Typing SVG" />
-  <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=30&duration=2000&pause=25000&color=0CF738&width=635&height=65&lines=Backend+Delevoper" alt="Typing SVG" style="margin-top: -20px;" />
+  <h1 style="color: green">VLADISLAV<br>Backend Developer</h1>
 </div>
 <!-- Терминальная анимация печати кода -->
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=2000&pause=200&color=FFFFFF&multiline=true&width=935&lines=S+-+%D0%A1%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0.+%D0%9C%D0%B5%D1%82%D0%BE%D0%B4+%D0%B2+%D0%BF%D0%BE%D0%B4%D1%85%D0%BE%D0%B4%D0%B5." alt="Typing SVG" />
