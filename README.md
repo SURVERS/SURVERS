@@ -1,10 +1,4 @@
-<link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&amp;display=swap" rel="stylesheet" />
-<h1 style="font-family:'Press Start 2P', cursive;color:#00ff41;text-align:center;line-height:1.4;text-shadow:4px 4px 0px #003b00;font-size:42px;margin:20px;user-select:none">
-    VLADISLAV
-    <span style="display:block;font-size:18px;color:#008f11;text-shadow:2px 2px 0px #002200;margin-top:15px">
-        Backend Developer
-    </span>
-</h1>
+<img src="https://iili.io/feeZCsp.md.png" alt="feeZCsp.md.png">
 <!-- Терминальная анимация печати кода -->
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=2000&pause=200&color=FFFFFF&multiline=true&width=935&lines=S+-+%D0%A1%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0.+%D0%9C%D0%B5%D1%82%D0%BE%D0%B4+%D0%B2+%D0%BF%D0%BE%D0%B4%D1%85%D0%BE%D0%B4%D0%B5." alt="Typing SVG" />
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=2000&pause=200&color=FFFFFF&multiline=true&width=935&lines=U+-+%D0%A3%D0%B3%D0%BB%D1%83%D0%B1%D0%BB%D1%91%D0%BD%D0%BD%D1%8B%D0%B9+%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7.+%D0%9F%D0%BE%D0%B8%D1%81%D0%BA+%D1%81%D1%83%D1%82%D0%B8." alt="Typing SVG" />
