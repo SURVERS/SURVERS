@@ -1,161 +1,157 @@
-<div align="center">
-
-<!-- Анимация печатающегося кода -->
-<svg fill="none" viewBox="0 0 800 100" width="800" height="100" xmlns="http://www.w3.org/2000/svg">
-  <foreignObject width="100%" height="100%">
-    <div xmlns="http://www.w3.org/1999/xhtml">
-      <style>
-        @keyframes typing {
-          from { width: 0 }
-          to { width: 100% }
-        }
-        @keyframes blink {
-          50% { border-color: transparent }
-        }
-        .typing-container {
-          display: flex;
-          justify-content: center;
-          align-items: center;
-          height: 100px;
-          background: transparent;
-          font-family: 'Courier New', monospace;
-        }
-        .typing-text {
-          font-size: 24px;
-          color: #00ff00;
-          text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
-          overflow: hidden;
-          border-right: 3px solid #00ff00;
-          white-space: nowrap;
-          animation: typing 4s steps(40) infinite, blink 0.75s step-end infinite;
-          width: 0;
-        }
-      </style>
-      <div class="typing-container">
-        <div class="typing-text">const developer = new BackendDeveloper();</div>
-      </div>
-    </div>
-  </foreignObject>
-</svg>
-
-<!-- Приветственный баннер с анимацией -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff00,100:00aa00&height=200&section=header&text=Владислав&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer&descAlignY=55&descSize=25" />
-
-<!-- Анимированное приветствие -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=600&lines=Привет!+👋+Я+Владислав;Backend+Developer;20+лет;Создаю+крутые+проекты!" alt="Typing SVG" />
-
-</div>
-
----
-
-## 💫 Обо мне
-
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
-
-- 👨‍💻 **Имя:** Владислав
-- 🎂 **Возраст:** 20 лет
-- 💼 **Специализация:** Backend Developer
-- 📫 **Telegram:** [@survers_team](https://t.me/survers_team)
-- ✉️ **Email:** surversemail@gmail.com
-- 🚀 **Статус:** Готов к новым вызовам и проектам!
-
----
-
-## 🛠️ Технологический стек
+<link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&amp;display=swap" rel="stylesheet" />
+<h1 style="font-family:'Press Start 2P', cursive;color:#00ff41;text-align:center;line-height:1.4;text-shadow:4px 4px 0px #003b00;font-size:42px;margin:20px;user-select:none">
+    VLADISLAV
+    <span style="display:block;font-size:18px;color:#008f11;text-shadow:2px 2px 0px #002200;margin-top:15px">
+        Backend Developer
+    </span>
+</h1>
+<!-- Терминальная анимация печати кода -->
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=2000&pause=200&color=FFFFFF&multiline=true&width=935&lines=S+-+%D0%A1%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0.+%D0%9C%D0%B5%D1%82%D0%BE%D0%B4+%D0%B2+%D0%BF%D0%BE%D0%B4%D1%85%D0%BE%D0%B4%D0%B5." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=2000&pause=200&color=FFFFFF&multiline=true&width=935&lines=U+-+%D0%A3%D0%B3%D0%BB%D1%83%D0%B1%D0%BB%D1%91%D0%BD%D0%BD%D1%8B%D0%B9+%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7.+%D0%9F%D0%BE%D0%B8%D1%81%D0%BA+%D1%81%D1%83%D1%82%D0%B8." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&duration=2000&pause=200&color=FFFFFF&multiline=true&width=935&lines=R+-+%D0%A0%D0%B5%D0%BB%D0%B5%D0%B2%D0%B0%D0%BD%D1%82%D0%BD%D1%8B%D0%B5+%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5.+%D0%A4%D1%83%D0%BD%D0%B4%D0%B0%D0%BC%D0%B5%D0%BD%D1%82+%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B9." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&duration=2000&pause=200&color=FFFFFF&multiline=true&width=935&lines=V+-+%D0%92%D0%B5%D1%80%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F.+%D0%9F%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B0+%D0%BD%D0%B0+%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D1%8C." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&duration=2000&pause=200&color=FFFFFF&multiline=true&width=935&lines=E+-+%D0%AD%D0%BA%D1%81%D0%BF%D0%B5%D1%80%D1%82%D0%B8%D0%B7%D0%B0.+%D0%97%D0%BD%D0%B0%D0%BD%D0%B8%D0%B5%2C+%D0%B2%D0%BE%D0%BF%D0%BB%D0%BE%D1%89%D1%91%D0%BD%D0%BD%D0%BE%D0%B5+%D0%B2+%D0%B4%D0%B5%D0%B9%D1%81%D1%82%D0%B2%D0%B8%D0%B8." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&duration=2000&pause=200&color=FFFFFF&multiline=true&width=935&lines=R+-+%D0%A0%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5.+%D0%9A%D0%BB%D1%8E%D1%87%D0%B5%D0%B2%D0%BE%D0%B9+%D0%B2%D1%8B%D0%B2%D0%BE%D0%B4." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&duration=2000&pause=200&color=FFFFFF&multiline=true&width=935&lines=S+-+%D0%A1%D1%82%D1%80%D0%B0%D1%82%D0%B5%D0%B3%D0%B8%D1%8F.+%D0%94%D0%BE%D1%80%D0%BE%D0%B6%D0%BD%D0%B0%D1%8F+%D0%BA%D0%B0%D1%80%D1%82%D0%B0+%D0%BA+%D1%83%D1%81%D0%BF%D0%B5%D1%85%D1%83." alt="Typing SVG" />
 
 <div align="center">
 
-### 💻 Языки программирования
-
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![Pawn](https://img.shields.io/badge/Pawn-E34F26?style=for-the-badge&logo=scripting&logoColor=white)
-
-### 🎨 Frontend
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### ⚙️ Backend & Runtime
-
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-
-### 🗄️ Базы данных
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-
-</div>
-
----
-
-## 📊 GitHub Статистика
-
-<div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ТВОЙ_USERNAME&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&border_color=00ff00&title_color=00ff00&icon_color=00ff00"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ТВОЙ_USERNAME&layout=compact&langs_count=8&theme=github_dark&border_color=00ff00&title_color=00ff00"/>
+## ⚡ TECH ARSENAL
 
 </div>
 
 <div align="center">
-  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ТВОЙ_USERNAME&theme=github-dark-blue&border=00ff00&ring=00ff00&fire=00ff00&currStreakLabel=00ff00)
+
+```diff
+@@                    [ BACKEND POWERHOUSE ]                    @@
+
++   🔥 PRIMARY WEAPONS
+!   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
 
 </div>
 
----
+<table align="center">
+<tr>
+<td width="50%" valign="top">
 
-## 🏆 GitHub Трофеи
+### 🎯 Backend Stack
+
+```go
+// My daily weapons
+package main
+
+import (
+    "golang"      // ⚡ Main language
+    "csharp"      // 💎 .NET powerhouse  
+    "python"      // 🐍 Automation king
+    "typescript"  // 📘 Type-safe JS
+    "php"         // 🐘 Web classic
+)
+```
 
 <div align="center">
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=ТВОЙ_USERNAME&theme=darkhub&no-frame=true&column=7&margin-w=15&margin-h=15&border_color=00ff00)
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
 </div>
 
----
+</td>
+<td width="50%" valign="top">
 
-## 🔥 Активность
+### 🗄️ Database Mastery
+
+```sql
+-- Data architecture
+SELECT skill FROM expertise
+WHERE level = 'advanced'
+AND type IN (
+  'PostgreSQL',  -- 🐘 Relational beast
+  'MySQL'        -- 🐬 Classic choice
+);
+
+-- RESULT: 2 rows of pure power
+```
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ТВОЙ_USERNAME&bg_color=0d1117&color=00ff00&line=00aa00&point=00ff00&area=true&hide_border=false&border_color=00ff00" />
+![Postgres](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 </div>
 
----
-
-## 📫 Связаться со мной
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/survers_team)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:surversemail@gmail.com)
+```lua
+-- Additional firepower
+local skills = {
+    scripting = {"Lua", "Pawn"},
+    runtime = {"Node.js"},
+    frontend = {"React", "JavaScript", "HTML", "CSS"}
+}
+
+return skills.scripting, skills.runtime, skills.frontend
+-- >> 5 more tools in the arsenal
+```
 
 </div>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,react,js,html,css,lua&perline=6" />
+</p>
 
 ---
 
 <div align="center">
 
-### 💭 Цитата дня
+## 📊 SYSTEM METRICS
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+```bash
+$ ./analyze_github_activity.sh
+```
 
-### 👁️ Просмотры профиля
+</div>
 
-![Visitor Count](https://profile-counter.glitch.me/ТВОЙ_USERNAME/count.svg)
+<table width="100%">
+<tr>
+<td width="50%">
 
-### 🐍 Вклад
+<div align="center">
 
-<img src="https://raw.githubusercontent.com/ТВОЙ_USERNAME/ТВОЙ_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+### 💻 Code Statistics
+
+<img src="https://github-readme-stats.vercel.app/api?username=survers&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=00FF41&ring_color=00FF41&border_radius=10" width="100%" />
+
+</div>
+
+</td>
+<td width="50%">
+
+<div align="center">
+
+### 🔥 Commit Streak
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=survers&theme=dark&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&currStreakNum=00FF41&dates=00FF41&sideNums=00FF41&border_radius=10" width="100%" />
+
+</div>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### 📈 Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=survers&theme=github-compact&hide_border=true&area=true&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF&border_radius=10&custom_title=Contribution%20Timeline" width="95%" />
 
 </div>
 
@@ -163,10 +159,130 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff00,100:00aa00&height=120&section=footer"/>
+## 🏆 ACHIEVEMENT UNLOCKED
 
-**⭐ Спасибо за посещение моего профиля! ⭐**
+```ascii
+    _______________
+   /               \
+  /   BACKEND       \
+ /      MASTER       \
+|  ★★★★★★★★★★★★★★★  |
+ \    LEVEL 20      /
+  \_______________/
+```
 
-*Создано с ❤️ и множеством кода*
+<img src="https://github-profile-trophy.vercel.app/?username=survers&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7&title_color=00FF41&icon_color=00FF41&text_color=00FF41" width="100%" />
 
 </div>
+
+---
+
+<div align="center">
+
+## 📡 NETWORK CONNECTION
+
+```bash
+> ping @survers_team
+> PONG! Response time: <1ms
+> Connection: Stable ✓
+```
+
+<br>
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=000000)](https://t.me/survers_team)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:surversemail@gmail.com)
+
+<br>
+
+```javascript
+// Quick connect
+const vladislav = {
+  telegram: "@survers_team",
+  email: "surversemail@gmail.com",
+  response_time: "24h",
+  availability: "open_for_projects"
+};
+
+console.log("🟢 System Online • Ready to Build");
+```
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 Terminal Wisdom
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote_color=00FF41&author_color=00FF41&bg_color=0D1117&border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🎮 CONTRIBUTION MATRIX
+
+```ascii
+Loading contribution matrix...
+[████████████████████████████████] 100%
+```
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/survers/survers/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/survers/survers/output/github-contribution-grid-snake.svg">
+  <img alt="snake eating contributions" src="https://raw.githubusercontent.com/survers/survers/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+```ascii
+┌─────────────────────────────────────────────────────────────────┐
+│                                                                 │
+│  "Talk is cheap. Show me the code." - Linus Torvalds           │
+│                                                                 │
+│  [●] Active    [●] Building    [●] Debugging    [●] Deploying  │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=survers&color=00FF41&style=for-the-badge&label=VISITORS" />
+
+<br><br>
+
+```diff
++ System Status: Online
++ Developer Mode: Enabled
++ Coffee Level: ████████░░ 80%
++ Code Quality: Production Ready
+```
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=100&section=footer" width="100%"/>
+
+</div>
+
+<!-- Easter Egg -->
+<!-- 
+    ▄▄▄▄▄▄▄▄▄▄▄  ▄▄▄▄▄▄▄▄▄▄▄  ▄▄▄▄▄▄▄▄▄▄▄  ▄▄▄▄▄▄▄▄▄▄▄ 
+   ▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌
+   ▐░█▀▀▀▀▀▀▀▀▀ ▐░█▀▀▀▀▀▀▀█░▌▐░█▀▀▀▀▀▀▀█░▌▐░█▀▀▀▀▀▀▀▀▀ 
+   ▐░▌          ▐░▌       ▐░▌▐░▌       ▐░▌▐░▌          
+   ▐░▌          ▐░▌       ▐░▌▐░▌       ▐░▌▐░█▄▄▄▄▄▄▄▄▄ 
+   ▐░▌          ▐░▌       ▐░▌▐░▌       ▐░▌▐░░░░░░░░░░░▌
+   ▐░▌          ▐░▌       ▐░▌▐░▌       ▐░▌▐░█▀▀▀▀▀▀▀▀▀ 
+   ▐░▌          ▐░▌       ▐░▌▐░▌       ▐░▌▐░▌          
+   ▐░█▄▄▄▄▄▄▄▄▄ ▐░█▄▄▄▄▄▄▄█░▌▐░█▄▄▄▄▄▄▄█░▌▐░█▄▄▄▄▄▄▄▄▄ 
+   ▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌
+    ▀▀▀▀▀▀▀▀▀▀▀  ▀▀▀▀▀▀▀▀▀▀▀  ▀▀▀▀▀▀▀▀▀▀▀  ▀▀▀▀▀▀▀▀▀▀▀ 
+    
+    WITH PASSION
+-->
