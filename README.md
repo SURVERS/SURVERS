@@ -1,65 +1,83 @@
-<!-- TYPING CODE ANIMATION -->
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00FF00&background=000000&center=true&vCenter=true&width=900&lines=Backend+Developer;Golang+%7C+Node.js+%7C+PostgreSQL;Building+Scalable+Systems;Welcome+to+my+GitHub"
-    alt="Typing SVG"
-  />
-</p>
+Vladislav | Backend Developer 👨‍💻
+<div align="center">
+https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=800&height=80&lines=print(%2522Hello+World!%2522);const+x+%253D+10%253B;func+main()+%257B%257D;%3C?php+echo+%2522Hi%2522%253B+?%3E;def+hello()%253A;using+System%253B;#include+%3Ciostream%3E;SELECT+*+FROM+users%253B
 
-<hr style="border:1px solid black">
+</div>
+🚀 About Me
+<div align="center">
+https://i.pinimg.com/originals/89/70/4b/89704b8cd4627b0c30c3c0bc88c21f8b.gif
 
-<h1 align="center" style="color:#00FF00; -webkit-text-stroke:1px black;">
-  👨‍💻 Владислав | Backend Developer
-</h1>
+</div>
+Hey there! I'm Vladislav, a 20-year-old passionate Backend Developer with a strong focus on creating efficient, scalable, and robust server-side solutions. I love turning complex problems into simple, beautiful, and intuitive code.
 
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500"/>
-</p>
+🛠 Tech Stack
+Backend
+https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white
+https://img.shields.io/badge/C%2523-239120?style=for-the-badge&logo=c-sharp&logoColor=white
+https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white
+https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white
 
----
+Frontend
+https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white
+https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
 
-## 🧠 Обо мне
+Databases
+https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white
+https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white
 
-```go
+Scripting
+https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white
+https://img.shields.io/badge/Pawn-000000?style=for-the-badge&logo=c&logoColor=white
+
+📊 GitHub Stats
+<div align="center">
+https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&bg_color=00000000&text_color=00ff00&title_color=00ff00&icon_color=00ff00&border_color=000000
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark&bg_color=00000000&text_color=00ff00&title_color=00ff00&border_color=000000
+
+</div>
+🌟 My Projects
+🔥 Featured
+<div align="center"> <table> <tr> <td width="50%"> <h3>⚡ High-Performance API</h3> <p>Microservices architecture built with Go and gRPC</p> <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="100%"> </td> <td width="50%"> <h3>🤖 Discord Bot</h3> <p>Multi-functional bot with Node.js and TypeScript</p> <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="100%"> </td> </tr> </table> </div>
+📫 Connect With Me
+<div align="center">
+https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white
+https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
+
+</div>
+📈 Activity Graph
+<div align="center">
+https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&bg_color=00000000&color=00ff00&line=00ff00&point=ffffff&area=true&hide_border=true
+
+</div>
+💻 Code Snippet
+go
 package main
 
 import "fmt"
 
 func main() {
-    fmt.Println("Привет, я Владислав 👋")
-    fmt.Println("Возраст: 20")
-    fmt.Println("Роль: Backend Developer")
-    fmt.Println("Люблю производительность, архитектуру и чистый код")
+    fmt.Println("🚀 Turning ideas into code...")
+    
+    projects := []string{
+        "Scalable APIs",
+        "Database Design",
+        "Microservices",
+        "Real-time Systems",
+    }
+    
+    for _, project := range projects {
+        fmt.Printf("🔧 Working on: %s\n", project)
+    }
 }
-🔥 Backend-разработчик
+<div align="center">
+https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=100&section=footer&text=Thanks+for+visiting!&fontColor=000000&fontSize=30
 
-⚙️ Пишу сервисы, API, ботов, backend-архитектуру
+"First, solve the problem. Then, write the code." - John Johnson
 
-🧩 Люблю оптимизацию, масштабируемость и low-level подход
-
-🚀 Постоянно изучаю новое
-
-🛠️ Мой стек
-🔹 Backend & Languages
-<p> <img src="https://skillicons.dev/icons?i=go,cs,ts,js,python,php,lua,nodejs" /> </p>
-🔹 Frontend
-<p> <img src="https://skillicons.dev/icons?i=react,html,css,js" /> </p>
-🔹 Databases
-<p> <img src="https://skillicons.dev/icons?i=postgres,mysql" /> </p>
-🔹 Other
-Pawn
-
-Node.js
-
-REST / API
-
-SQL / Query Optimization
-
-📊 GitHub Статистика
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=survers&show_icons=true&theme=chartreuse-dark&hide_border=true" height="170"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=survers&layout=compact&theme=chartreuse-dark&hide_border=true" height="170"/> </p>
-🌐 Контакты
-<p align="center"> <a href="https://t.me/survers_team"> <img src="https://img.shields.io/badge/Telegram-00FF00?style=for-the-badge&logo=telegram&logoColor=black"/> </a> <a href="mailto:surversemail@gmail.com"> <img src="https://img.shields.io/badge/Gmail-00FF00?style=for-the-badge&logo=gmail&logoColor=black"/> </a> </p>
-🐍 Contribution Snake
-<p align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/> </p>
-⚡ Цитата
-<p align="center" style="color:#00FF00; -webkit-text-stroke:0.5px black;"> “Сначала код работает. Потом он становится красивым. Потом быстрым.” </p> <p align="center"> <img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="400"/> </p> ```
+</div><style> .typing-animation { font-family: 'Fira Code', monospace; color: #00ff00; -webkit-text-stroke: 1px black; text-shadow: 0 0 10px #00ff00; background: transparent !important; } </style>
