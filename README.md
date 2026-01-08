@@ -31,8 +31,12 @@
 
 ---
 
+### 📊 GitHub Activity
+
 <p align="left">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=SURVERS&show_icons=true&theme=dark&hide_border=true&title_color=00FF00&icon_color=00FF00&text_color=ffffff" alt="Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SURVERS&show_icons=true&theme=dark&hide_border=true&title_color=00FF00&icon_color=00FF00&text_color=ffffff" alt="Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SURVERS&layout=compact&theme=dark&hide_border=true&title_color=00FF00&text_color=ffffff" alt="Top Langs" />
 </p>
 
+</div>
 </div>
