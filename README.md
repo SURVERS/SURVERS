@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-  <img src="https://iili.io/feeZCsp.md.png" alt="feeZCsp.md.png" 
+  <img src="https://iili.io/fekJeEb.md.png" alt="feeZCsp.md.png" 
        style="width: 135%; max-width: 135%; display: block; margin: 0 auto;">
 </div>
 <!-- Терминальная анимация печати кода -->
