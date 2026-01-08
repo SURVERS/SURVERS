@@ -14,8 +14,8 @@
 
 ### 🛠 Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=go,cs,ts,js,py,php,lua,nodejs,react,postgres,mysql,html,css&perline=13" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=go,cs,ts,js,py,php,lua,nodejs,react,postgres,mysql,html,css&perline=6" />
 </p>
 
 
