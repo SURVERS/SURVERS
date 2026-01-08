@@ -15,10 +15,10 @@
 ### 🛠 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=go,cs,ts,js,py,php,lua,nodejs,react,postgres,mysql,html,css&perline=7" />
+  <img src="https://skillicons.dev/icons?i=go,cs,ts,js,py,php,lua,nodejs,react,postgres,mysql,html,css&perline=13" />
 </p>
 
-> **Note:** Also experienced in **Pawn** for specialized scripting.
+
 
 ---
 
