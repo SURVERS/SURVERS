@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=code&color=00FF00&height=150&section=header&text=//%20Developing%20the%20future&fontSize=20&animation=fadeIn&fontColor=00FF00" alt="Code Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=VLADISLAV;" alt="Typing Animation" />
 
 <br />
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=VLADISLAV;BACKEND+DEVELOPER" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Backend+Developer;" alt="Typing Animation" />
 
 <p align="center">
   <strong>20 years old | Minimalist | Problem Solver</strong>
